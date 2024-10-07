@@ -49,7 +49,7 @@ namespace Calculadora.models
 
         public string Shutdown () 
         {
-            return "Bye, bye";
+            return "Bye";
         }
     }
 }
